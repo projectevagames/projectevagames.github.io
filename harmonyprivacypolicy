@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harmony - Gizlilik Politikası / Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2E7D32;
+        }
+        hr {
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Harmony - Gizlilik Politikası</h1>
+<p><strong>Son Güncelleme:</strong> 12 Ekim 2025</p>
+
+<p>Bu Gizlilik Politikası, Project EVA (“Biz”) tarafından geliştirilen Harmony mobil oyunu için geçerlidir. Oyunumuz, kullanıcı gizliliğine önem verir. Bu politika, hangi bilgilerin toplandığını ve nasıl kullanıldığını açıklar.</p>
+
+<h2>1. Toplanan Veriler</h2>
+<ul>
+    <li>Oyun, doğrudan kişisel veri toplamaz.</li>
+    <li>Google AdMob reklam ağı, cihaz bilgilerini (ör. reklam kimliği) toplayabilir.</li>
+</ul>
+
+<h2>2. Verilerin Kullanımı</h2>
+<ul>
+    <li>Toplanan bilgiler yalnızca reklam ve analiz amaçlıdır.</li>
+    <li>Hiçbir kişisel veri satılmaz veya izinsiz paylaşılmaz.</li>
+</ul>
+
+<h2>3. Üçüncü Taraf Hizmetleri</h2>
+<p>Oyunda Google AdMob kullanılır. Daha fazla bilgi için: <a href="https://policies.google.com/privacy" target="_blank">Google Gizlilik Politikası</a></p>
+
+<h2>4. Güvenlik</h2>
+<p>Oyunumuz kişisel veri saklamaz. Üçüncü taraf sağlayıcılar kendi güvenlik politikalarına tabidir.</p>
+
+<h2>5. Değişiklikler</h2>
+<p>Politika gerektiğinde güncellenebilir. Güncel sürüm bu sayfada yer alır.</p>
+
+<h2>6. İletişim</h2>
+<p>E-posta: <a href="mailto:projecteva.contact@gmail.com">projecteva.contact@gmail.com</a></p>
+
+<hr>
+
+<h1>Harmony - Privacy Policy</h1>
+<p><strong>Last Updated:</strong> October 12, 2025</p>
+
+<p>This Privacy Policy applies to the Harmony mobile game developed by Project EVA (“We”). We respect user privacy. This policy explains what data we collect and how we use it.</p>
+
+<h2>1. Data Collected</h2>
+<ul>
+    <li>The game does not directly collect personal data.</li>
+    <li>Google AdMob may collect device information (e.g., advertising ID).</li>
+</ul>
+
+<h2>2. Use of Data</h2>
+<ul>
+    <li>Collected data is used only for advertising and analytics purposes.</li>
+    <li>No personal data is sold or shared without consent.</li>
+</ul>
+
+<h2>3. Third-Party Services</h2>
+<p>The game uses Google AdMob. For more details: <a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></p>
+
+<h2>4. Security</h2>
+<p>The game does not store personal data. Third-party providers have their own security measures.</p>
+
+<h2>5. Changes</h2>
+<p>This policy may be updated as needed. The current version will always be available on this page.</p>
+
+<h2>6. Contact</h2>
+<p>Email: <a href="mailto:projecteva.contact@gmail.com">projecteva.contact@gmail.com</a></p>
+
+</body>
+</html>
